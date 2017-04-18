@@ -1,4 +1,7 @@
-# api documentation for  [app.js (v0.0.21)](http://github.com/joehewitt/app.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-app.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-app.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-app.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-app.js)
+# npmdoc-app.js
+
+#### api documentation for  [app.js (v0.0.21)](http://github.com/joehewitt/app.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-app.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-app.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-app.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-app.js)
+
 #### Packages Node modules as browser apps.
 
 [![NPM](https://nodei.co/npm/app.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/app.js)
